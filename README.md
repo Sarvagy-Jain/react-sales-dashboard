@@ -24,3 +24,19 @@ Welcome to the Restaurant Dashboard project! This React-based dashboard provides
    ```bash
    git clone https://github.com/your-username/restaurant-dashboard.git
    cd restaurant-dashboard
+   ```
+
+   
+2. Install dependencies and start the development server:
+   
+      ``` bash
+      npm install
+      npm start
+      ```
+
+3. View the dashboard:
+   Open your browser and navigate to http://localhost:3000 to see the dashboard in action.
+
+   
+   
+   
