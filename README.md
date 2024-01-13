@@ -22,7 +22,7 @@ Welcome to the Restaurant Dashboard project! This React-based dashboard provides
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/restaurant-dashboard.git
+   git clone https://github.com/Sarvagy-Jain/react-sales-dashboard.git
    cd restaurant-dashboard
    ```
 
